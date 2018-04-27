@@ -12,8 +12,7 @@ I should also add that I'm really excited to have my work shown in the AAHVS Fin
 
 
 ![Openprocessing](images/op.png?raw=true "Openprocessing")
-
-
+<br>
 ![Twitter](images/twitter.png?raw=true "Twitter")
 
 
